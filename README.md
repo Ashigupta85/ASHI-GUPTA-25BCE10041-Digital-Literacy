@@ -3,11 +3,11 @@ A comprehensive Digital Literacy Portfolio (CSE0001). Showcasing professional pr
 
 # Digital Literacy Portfolio
 👤 Student Details
-Name: Ashi Gupta
-Registration Number: 25BCE10041
-Branch: COMPUTER SCIENCE
-Year: 1st Year B.Tech
-Course: CSE0001 – Digital Literacy
+Name: Ashi Gupta  
+Registration Number: 25BCE10041  
+Branch: COMPUTER SCIENCE   
+Year: 1st Year B.Tech  
+Course: CSE0001 – Digital Literacy  
 
 
 # Project Overview
